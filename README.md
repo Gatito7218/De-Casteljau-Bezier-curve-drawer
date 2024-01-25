@@ -8,3 +8,5 @@ A simple Bezier curve drawer made by utilizing De Casteljau's algorithm on tkint
 (Formulas are straight from the wikipedia page for De Casteljau's algo)
 First formula is for calculating the curve, with beta being the control points and n being the degrees.
 Second formula is the Bernstein basis polynomial, which gets multiplied by beta and summed.
+
+Information for implementing binomial coefficient into python pulled form here: https://stackoverflow.com/questions/26560726/python-binomial-coefficient
